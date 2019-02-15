@@ -1,0 +1,54 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ 
+}
+hr{
+	color:#D7DBDD;
+}
+#lg{
+	height:600px;
+	width:1000px;
+	text-align:center;
+}
+#h1-caps{
+	padding-left:120px;
+	padding-right:20px;
+	font-size:50px;
+}
+#p1{
+	padding-top:150px;
+	font-size:25px;
+}
+#ip1 {
+    border-radius: 25px;
+   background:#EEEEEE;
+   padding:20px;
+    width: 250px;
+   height:8px;
+	border:none;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+#ip2 {
+    border-radius: 25px;
+   background:#EEEEEE;
+   padding:20px;
+    width: 250px;
+   height:8px;
+	border:none;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+#bt1{
+	border-radius:25px;
+	border:none;
+	padding:15px;
+	width:10%;
+}

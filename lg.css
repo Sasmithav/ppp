@@ -1,0 +1,45 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#h1-caps{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;	
+}
+hr{
+	color:#D7DBDD;
+}
+#ip1 {
+    border-radius: 25px;
+   background:#EEEEEE;
+   padding:20px;
+    width: 250px;
+   height:8px;
+	border:none;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+#ip2 {
+    border-radius: 25px;
+   background:#EEEEEE;
+   padding:20px;
+    width: 250px;
+   height:8px;
+	border:none;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+#bt1{
+	border-radius:25px;
+	border:none;
+	padding:15px;
+	width:10%;
+}
